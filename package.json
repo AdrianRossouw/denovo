@@ -1,0 +1,19 @@
+{
+  "name": "denovo",
+  "version": "0.0.1",
+  "description": "A fresh take on project scaffolding, for a microservices world",
+  "main": "index.js",
+  "scripts": {
+    "test": "/node_modules/.bin/lab -v -P test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianRossouw/denovo.git"
+  },
+  "author": "Adrian Rossouw <adrian@daemon.co.za>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdrianRossouw/denovo/issues"
+  },
+  "homepage": "https://github.com/AdrianRossouw/denovo#readme"
+}
